@@ -1,0 +1,18 @@
+#decrypt {
+  visibility: hidden;
+}
+
+#decrypt-error {
+  display: none;
+}
+
+#password {
+  display:    inline;
+  visibility: hidden;
+  width:      25%;
+}
+
+#secret {
+  white-space: pre-wrap;
+  word-wrap:   break-all;
+}

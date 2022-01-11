@@ -1,0 +1,12 @@
+# do not publish live config file
+.env
+config/*
+!config/config.php.default
+.pscale/cli-helper-scripts/typescript
+
+# do not publish macOS blergh
+._*
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
